@@ -74,9 +74,9 @@ Streamlit Frontend → NLP Classifier (6 classes) + ML Recommender (TF-IDF) → 
 ## 📈 Model Performance
 | Model | Accuracy | F1 Score |
 |-------|----------|----------|
-| Logistic Regression | 0.847 | 0.842 |
-| Random Forest | 0.873 | 0.869 |
-| **Gradient Boosting** | **0.891** | **0.887** |
+| Logistic Regression | 0.944 | 0.943 |
+| Random Forest | 0.986 | 0.986 |
+| **Gradient Boosting** | **0.992** | **0.992** |
 
 ## 🔬 Implementation
 
@@ -169,11 +169,11 @@ TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONIN
 ```
 
 ## 📞 Support
-📧 Email: your.email@example.com | 💬 [Issues](https://github.com/yourusername/drug-food-interaction/issues) | 📚 [Wiki](https://github.com/yourusername/drug-food-interaction/wiki)
+📧 Email: your.email@example.com | 💬 [Issues](https://github.com/yourusername/drug-food-interaction/issues) | 📚 [Wiki](https://https://github.com/jeyadev-jd/ai-drug-food-interactions/wiki)
 
 ---
 
-⭐ **Star this repo if helpful!** | 🔗 [Live Demo](https://your-demo.streamlit.app) | Made with ❤️ using Python, Streamlit & ML
+⭐ **Star this repo if helpful!** | Made with ❤️ using Python, Streamlit & ML
 ```
 
 **This is a complete, single-block README** - just copy everything between the triple backticks and save as `README.md`! Replace placeholders (yourusername, Your Name, etc.) with your actual details.
