@@ -175,5 +175,3 @@ TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONIN
 
 ⭐ **Star this repo if helpful!** | Made with ❤️ using Python, Streamlit & ML
 ```
-
-**This is a complete, single-block README** - just copy everything between the triple backticks and save as `README.md`! Replace placeholders (yourusername, Your Name, etc.) with your actual details.
