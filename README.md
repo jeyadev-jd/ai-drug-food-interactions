@@ -28,7 +28,7 @@ from google.colab import files; uploaded = files.upload()
 
 ### Local Installation
 ```
-git clone https://github.com/yourusername/drug-food-interaction.git
+git clone https://github.com/jeyadev-jd/drug-food-interaction.git
 cd drug-food-interaction
 pip install -r requirements.txt
 streamlit run app.py
@@ -137,7 +137,7 @@ drug-food-interaction/
 
 ## 📄 License
 ```
-MIT License - Copyright (c) 2025 [Your Name]
+MIT License - Copyright (c) 2025 [Jeyadev R]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
 documentation files (the "Software"), to deal in the Software without restriction, including without limitation 
@@ -152,7 +152,7 @@ TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONIN
 ```
 
 ## 👤 Author
-**Your Name** - [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | your.email@example.com
+**Your Name** - [GitHub](https://github.com/jeyadev-jd) | [LinkedIn](https://linkedin.com/in/r-jeyadev) | jeyadev2006@gmail.com
 
 ## 🙏 Acknowledgments
 [DrugBank](https://www.drugbank.com/) | [Streamlit](https://streamlit.io/) | [Scikit-learn](https://scikit-learn.org/) | [Google Colab](https://colab.research.google.com/)
@@ -160,7 +160,7 @@ TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONIN
 ## 📖 Citation
 ```
 @software{drug_food_interaction_2025,
-  author = {Your Name},
+  author = {Jeyadev R},
   title = {Drug-Food Interaction Analysis System},
   year = {2025},
   publisher = {GitHub},
@@ -169,7 +169,7 @@ TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONIN
 ```
 
 ## 📞 Support
-📧 Email: your.email@example.com | 💬 [Issues](https://github.com/yourusername/drug-food-interaction/issues) | 📚 [Wiki](https://https://github.com/jeyadev-jd/ai-drug-food-interactions/wiki)
+📧 Email: jeyadev2006@gmail.com | 💬 [Issues](https://github.com/jeyadev-jd/drug-food-interaction/issues) | 📚 [Wiki](https://https://github.com/jeyadev-jd/ai-drug-food-interactions/wiki)
 
 ---
 
