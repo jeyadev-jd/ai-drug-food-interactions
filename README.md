@@ -174,4 +174,3 @@ TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONIN
 ---
 
 ⭐ **Star this repo if helpful!** | Made with ❤️ using Python, Streamlit & ML
-```
