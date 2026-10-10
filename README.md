@@ -174,3 +174,15 @@ TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONIN
 ---
 
 ⭐ **Star this repo if helpful!** | Made with ❤️ using Python, Streamlit & ML
+
+---
+
+## Author
+
+**Jeyadev R** · AI/ML Engineer & Full-Stack Developer · Chennai, India
+
+- Portfolio: [jeyadev.dev](https://jeyadev.dev/projects/ai-drug-food-interactions)
+- GitHub: [@jeyadev-jd](https://github.com/jeyadev-jd)
+- LinkedIn: [r-jeyadev](https://www.linkedin.com/in/r-jeyadev)
+
+If this project is useful to you, a ⭐ on the repo helps others find it.
